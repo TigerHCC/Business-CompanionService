@@ -1,0 +1,49 @@
+[
+    {
+        "id": "oliver",
+        "name": "Oliver Hsu",
+        "role": "專業陪打",
+        "ar": 60,
+        "level": 50,
+        "storyLevel": 4,
+        "main": "杜林 (Durin)",
+        "description": "深淵滿星專家，100% 地圖探索達人。擁有 3 年原神經驗。",
+        "image": "/images/oliver.jpg"
+    },
+    {
+        "id": "booster2",
+        "name": "陪打員 2",
+        "role": "可預約",
+        "ar": 0,
+        "main": "未知",
+        "description": "即將加入。",
+        "image": ""
+    },
+    {
+        "id": "booster3",
+        "name": "陪打員 3",
+        "role": "可預約",
+        "ar": 0,
+        "main": "未知",
+        "description": "即將加入。",
+        "image": ""
+    },
+    {
+        "id": "booster4",
+        "name": "陪打員 4",
+        "role": "可預約",
+        "ar": 0,
+        "main": "未知",
+        "description": "即將加入。",
+        "image": ""
+    },
+    {
+        "id": "booster5",
+        "name": "陪打員 5",
+        "role": "可預約",
+        "ar": 0,
+        "main": "未知",
+        "description": "即將加入。",
+        "image": ""
+    }
+]

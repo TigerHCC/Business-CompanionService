@@ -10,7 +10,7 @@ const Hero = () => {
             justifyContent: 'center',
             textAlign: 'center',
             padding: '6rem 2rem 2rem', // Top padding for fixed navbar
-            background: `linear-gradient(rgba(11, 19, 43, 0.7), rgba(11, 19, 43, 0.9)), url('/images/hero-bg.jpg')`,
+            background: `linear-gradient(rgba(11, 19, 43, 0.7), rgba(11, 19, 43, 0.9)), url('./images/hero-bg.jpg')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             position: 'relative',

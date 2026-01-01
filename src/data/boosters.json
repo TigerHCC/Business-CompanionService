@@ -8,7 +8,7 @@
         "storyLevel": 4,
         "main": "杜林 (Durin)",
         "description": "深淵滿星專家，100% 地圖探索達人。擁有 3 年原神經驗。",
-        "image": "/images/oliver.jpg"
+        "image": "./images/oliver.jpg"
     },
     {
         "id": "booster2",

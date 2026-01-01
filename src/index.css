@@ -1,0 +1,49 @@
+:root {
+  --color-primary: #D4AF37; /* Gold/Stars */
+  --color-secondary: #1C2541; /* Deep Blue/Night */
+  --color-accent: #5BC0BE; /* Anemo/Paimon Blue */
+  --color-text: #F0F0F0;
+  --color-bg: #0B132B; /* Darker Blue */
+  --color-card-bg: rgba(28, 37, 65, 0.8);
+  
+  --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-main);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  background-image: linear-gradient(to bottom, #0B132B, #1C2541);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-primary);
+  border-radius: 5px;
+}
